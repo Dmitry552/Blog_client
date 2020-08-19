@@ -1,0 +1,16 @@
+﻿.full-post {
+  .container {
+    width: 780px;
+  }
+  h2 {
+    font-weight: bold;
+    font-size: 38px;
+  }
+  &__text {
+    color: #0000;
+  }
+  &__details {
+    margin-top: 20px;
+    opacity: 0.5;
+  }
+}
